@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-25T23:52:42 SGT" name="Default suite" finished-at="2022-01-25T23:52:46 SGT" duration-ms="4373">
+    <groups>
+    </groups>
+    <test started-at="2022-01-25T23:52:42 SGT" name="Default test" finished-at="2022-01-25T23:52:46 SGT" duration-ms="4373">
+      <class name="com.sddevops.selenium_maven.eclipse.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sddevops.selenium_maven.eclipse.NewTest@762ef0ea]" started-at="2022-01-25T23:52:42 SGT" name="beforeTest" finished-at="2022-01-25T23:52:42 SGT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:com.sddevops.selenium_maven.eclipse.NewTest@762ef0ea]" started-at="2022-01-25T23:52:42 SGT" name="f" finished-at="2022-01-25T23:52:46 SGT" duration-ms="4356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.sddevops.selenium_maven.eclipse.NewTest@762ef0ea]" started-at="2022-01-25T23:52:46 SGT" name="afterTest" finished-at="2022-01-25T23:52:46 SGT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.sddevops.selenium_maven.eclipse.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
